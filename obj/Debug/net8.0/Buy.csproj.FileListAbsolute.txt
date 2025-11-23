@@ -1,0 +1,14 @@
+C:\Projetos\PrimeiroProjeto\Buy\bin\Debug\net8.0\Buy.exe
+C:\Projetos\PrimeiroProjeto\Buy\bin\Debug\net8.0\Buy.deps.json
+C:\Projetos\PrimeiroProjeto\Buy\bin\Debug\net8.0\Buy.runtimeconfig.json
+C:\Projetos\PrimeiroProjeto\Buy\bin\Debug\net8.0\Buy.dll
+C:\Projetos\PrimeiroProjeto\Buy\bin\Debug\net8.0\Buy.pdb
+C:\Projetos\PrimeiroProjeto\Buy\obj\Debug\net8.0\Buy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\PrimeiroProjeto\Buy\obj\Debug\net8.0\Buy.AssemblyInfoInputs.cache
+C:\Projetos\PrimeiroProjeto\Buy\obj\Debug\net8.0\Buy.AssemblyInfo.cs
+C:\Projetos\PrimeiroProjeto\Buy\obj\Debug\net8.0\Buy.csproj.CoreCompileInputs.cache
+C:\Projetos\PrimeiroProjeto\Buy\obj\Debug\net8.0\Buy.dll
+C:\Projetos\PrimeiroProjeto\Buy\obj\Debug\net8.0\refint\Buy.dll
+C:\Projetos\PrimeiroProjeto\Buy\obj\Debug\net8.0\Buy.pdb
+C:\Projetos\PrimeiroProjeto\Buy\obj\Debug\net8.0\Buy.genruntimeconfig.cache
+C:\Projetos\PrimeiroProjeto\Buy\obj\Debug\net8.0\ref\Buy.dll
